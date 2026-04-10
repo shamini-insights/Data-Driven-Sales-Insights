@@ -32,17 +32,6 @@ Country-wise performance
 Product-level trends
 Sales category distribution
 🧩 Dataset Features
-
-Key attributes used in the project:
-
-Transaction ID
-Date
-Country Name & Code
-Product ID & Name
-Quantity & Unit
-Value (INR & USD)
-HS Code
-Region & Sub-Region
 🔢 Calculated Fields
 Price per Unit
 Sales Category (High / Medium / Low)
