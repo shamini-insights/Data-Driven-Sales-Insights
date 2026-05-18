@@ -7,13 +7,13 @@ The dataset was cleaned and transformed in Excel, and then visualized in Power B
 
 The goal is to convert raw export data into actionable business insights.
 
-🎯 Objectives
+ Objectives
 Analyze overall sales performance (INR & USD)
 Identify top-performing countries and products
 Categorize sales into High, Medium, and Low segments
 Understand product demand using quantity analysis
 Provide insights for better business decision-making
-📂 Data Source
+ Data Source
 Dataset Name: Export to Asian Countries
 Source: India Data Portal
 Domain: International Trade / Export Analysis
@@ -31,38 +31,38 @@ This project transforms raw data into meaningful insights by analyzing:
 Country-wise performance
 Product-level trends
 Sales category distribution
-🧩 Dataset Features
-🔢 Calculated Fields
+ Dataset Features
+ Calculated Fields
 Price per Unit
 Sales Category (High / Medium / Low)
 Quantity Level (Low / Medium / Bulk)
-🛠️ Tools & Technologies
-📊 Microsoft Excel
+ Tools & Technologies
+ Microsoft Excel
 Data cleaning
 Removing duplicates
 Handling missing values
 Creating calculated columns
-📊 Power BI
+ Power BI
 Data modeling
 Dashboard creation
 Interactive visualizations
-🔄 Power Query
+ Power Query
 Data transformation
 Error removal
 Formatting
-🧠 DAX
+ DAX
 Measures (KPIs)
 Calculated columns
-🔄 Data Preprocessing
-✔️ Excel
+ Data Preprocessing
+ Excel
 Cleaned raw dataset
 Removed null and duplicate values
 Standardized formats
-✔️ Power BI
+ Power BI
 Data transformation using Power Query
 Removed unnecessary columns
 Created calculated columns & measures
-📊 Dashboard Features
+ Dashboard Features
 KPI Cards (Total Sales, Quantity, Transactions, Avg Price)
 Bar Chart → Sales by Country
 Column Chart → Product Quantity
@@ -70,32 +70,32 @@ Donut Chart → Category Distribution
 Stacked Bar → Country vs Category
 Table → Sales Summary
 Slicers → Country & Product filters
-📈 Key Insights
-🌍 Country-wise Performance
+ Key Insights
+ Country-wise Performance
 Vietnam is the top-performing country
 Thailand & Malaysia show strong demand
 Some countries have very low contribution
-📦 Product Analysis
+ Product Analysis
 Few products dominate total quantity
 Many products contribute very little
-💰 Category Analysis
+ Category Analysis
 High Category contributes ~94% of total sales
 Medium & Low categories contribute very less
 Revenue is highly dependent on high-value transactions
-📊 Sales Strategy Insight
+ Sales Strategy Insight
 High volume, low price per unit model
 Average price per unit is relatively low
-📌 Conclusion
+ Conclusion
 
 The project reveals that export performance is heavily dependent on:
 
 A few key countries
 High-value transactions
-💡 Recommendations
+ Recommendations
 Expand into low-performing markets
 Improve mid-range (Medium category) sales
 Diversify product offerings
-🚀 How to Use
+ How to Use
 Open the dataset in Excel
 Review cleaned data
 Load into Power BI
